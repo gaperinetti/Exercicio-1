@@ -1,0 +1,11 @@
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+c:\users\laboratorios\documents\visual studio 2015\Projects\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\admeng.fitness\Downloads\Lista-20170331T113640Z-001\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csprojResolveAssemblyReference.cache
